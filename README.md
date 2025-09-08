@@ -1,0 +1,2 @@
+# transfer_learning
+该项目下主要展示迁移学习相关内容：如FastText文本分类、FastText词向量训练、使用FastText进行词向量迁移、迁移学习实践等
